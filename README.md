@@ -103,7 +103,12 @@ crypto_data_platform/
 
 1. **Clone the repository**
    ```bash
-   git clone git@github-personal:T-Lanojika/crypto-data-platform.git
+   # Using SSH
+   git clone git@github.com:T-Lanojika/crypto-data-platform.git
+   
+   # Or using HTTPS
+   git clone https://github.com/T-Lanojika/crypto-data-platform.git
+   
    cd crypto_data_platform
    ```
 
